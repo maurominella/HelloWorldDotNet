@@ -24,7 +24,7 @@ jobs:
       run: dotnet build -c Release --no-restore      
 
     - name: Build for Windows X64
-      run: dotnet build -c Release -r win-x64     
+      run: dotnet publish -c Release -r win-x64     
 
     - name: List folders
       run: ls -R . -ll
