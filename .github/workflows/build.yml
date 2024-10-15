@@ -22,3 +22,20 @@ jobs:
 
     - name: Build for the current platfom
       run: dotnet build -c Release --no-restore      
+
+    - name: Build for Windows X64
+      run: dotnet build -c Release -r win-x64     
+
+    - name: List folders
+      run: ls -R . -ll
+
+    - name: Run Linux executable
+      run: |
+        cd ./bin/Release/net8.0
+        ./HelloWorldDotNet
+
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4.4.3
+      with:
+        name: HelloWorldDotNEt project
+        path: ./bin/Release/net8.0/win-x64
