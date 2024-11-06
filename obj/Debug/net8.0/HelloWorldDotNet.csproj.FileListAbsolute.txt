@@ -1,0 +1,14 @@
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\bin\Debug\net8.0\HelloWorldDotNet.exe
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\bin\Debug\net8.0\HelloWorldDotNet.deps.json
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\bin\Debug\net8.0\HelloWorldDotNet.runtimeconfig.json
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\bin\Debug\net8.0\HelloWorldDotNet.dll
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\bin\Debug\net8.0\HelloWorldDotNet.pdb
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\HelloWorldDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\HelloWorldDotNet.AssemblyInfoInputs.cache
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\HelloWorldDotNet.AssemblyInfo.cs
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\HelloWorldDotNet.csproj.CoreCompileInputs.cache
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\HelloWorldDotNet.dll
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\refint\HelloWorldDotNet.dll
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\HelloWorldDotNet.pdb
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\HelloWorldDotNet.genruntimeconfig.cache
+E:\Users\mauromi\source\git_repos\HelloWorldDotNet\obj\Debug\net8.0\ref\HelloWorldDotNet.dll
