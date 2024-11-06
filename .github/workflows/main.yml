@@ -1,0 +1,23 @@
+name: HelloWorldDotNet Building Automation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4.2.2
+    - name: Setup .NET Core SDK
+      uses: actions/setup-dotnet@v4.1.0
+      with:
+        dotnet-version: 8.0.x
+    - name: Restore dependencies
+      run: dotnet restore
+    - name: Build for the current platform
+      run: dotnet build -c Release --no-restore
+    - name: Test
+      run: dotnet test --verbosity normal
