@@ -23,3 +23,6 @@ jobs:
 
     - name: List Folders
       run: ls -R
+
+    - name: Run
+      run: dotnet run
